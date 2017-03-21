@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Files" OnQuickLaunch="TRUE" TemplateType="100" Url="Lists/Files" Description="My List Instance">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Autoexec</Field>
+          <Field Name="FileName">Autoexec</Field>
+          <Field Name="FileType">bat</Field>
+          <Field Name="Team">Dell</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Config</Field>
+          <Field Name="FileName">Config</Field>
+          <Field Name="FileType">sys</Field>
+          <Field Name="Team">EMC</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Hosts</Field>
+          <Field Name="FileName">Hosts</Field>
+          <Field Name="FileType">exe</Field>
+          <Field Name="Team">Dell</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Bootstrap</Field>
+          <Field Name="FileName">Bootstrap</Field>
+          <Field Name="FileType">js</Field>
+          <Field Name="Team">EMC</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Startup</Field>
+          <Field Name="FileName">Startup</Field>
+          <Field Name="FileType">css</Field>
+          <Field Name="Team">Dell</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>
